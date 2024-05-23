@@ -98,11 +98,11 @@ The Movie Workbench icon
 1. Click on <img src=./icons//CreateClapperboardIcon.svg height=20>  to **create the Clapperboard** and <img src=./icons//ClapperboardIcon.svg height=20> to **configure it** in the property window (see the tips showed for each item).
 2. Select the cameras and objects you want to animate and record through the clapperboard using the corresponding fields in the property window. Enable the Clapperboard <img src=./icons//EnableMovieClapperboardIcon.svg height=20> and run a round trip, mentioned before.
 3. Position your animation at the desired step.
-4. Click on <img src=./icons//StartRecord3DViewIcon.svg height=20> for **record 3D view frames** or <img src=./icons//StartRecordRenderIcon.svg height=20> for **record rendered** ones, choose or confirm the folder to salve the frames.
+4. Click on <img src=./icons//StartRecord3DViewIcon.svg height=20> for **record 3D view frames** or <img src=./icons//StartRecordRenderIcon.svg height=20> for **record rendered** ones, choose or confirm the folder to save the frames.
 5. Start the animation with the Play Animation button <img src=./icons//PlayMovieAnimationIcon.svg height=20>. You can play backwards (and record) too - Play Backward button <img src=./icons//PlayBackwardMovieAnimationIcon.svg height=20>.
 6. If You want only to stop recording, click on <img src=./icons//StopRecordCameraIcon.svg height=20>  **stop recording**.
 7. If you need to stop the animation, click on **pause button** <img src=./icons//PauseMovieAnimationIcon.svg height=20>, it will also stop recording.
-8. After the animation finished, select the folder to salve your video and click on <img src=./icons//CreateVideoIcon.svg height=20>  **create video**, choose or confirm the input frames folder.
+8. After the animation finished, select the folder to save your video and click on <img src=./icons//CreateVideoIcon.svg height=20>  **create video**, choose or confirm the input frames folder.
 9. For playing video, select the file and click on <img src=./icons//PlayVideoIcon.svg height=20> **play video**.
 
 ##### The Movie Objects properties:
